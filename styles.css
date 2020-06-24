@@ -1,0 +1,52 @@
+body {
+  font-family: cursive;
+  color: #fff;
+  width: fit-content;
+  padding: 6rem 0;
+  background-color: #212121;
+}
+
+.container {
+display: flex;
+align-content: center;
+align-items: center;
+flex-direction: column;
+}
+
+h1 {
+  font-size: 5rem;
+}
+
+button {
+  background-color: lightcoral;
+  border: 0;
+  margin-top: 15px;
+  border-radius: 5px;
+  border-bottom-right-radius: 20px;
+  border-top-left-radius: 20px;
+  box-shadow: 5px;
+  text-align: center;
+  padding: 10px 20px;
+  color: #fff;
+  font-weight: bold;
+  font-size: 3rem;
+}
+
+@media only screen and (max-width: 800px) {
+  h1 {
+    font-size: 3rem;
+  }
+  button {
+    font-size: 2rem;
+  }
+}
+
+
+@media only screen and (max-width: 550px) {
+  h1 {
+    font-size: 2.4rem;
+  }
+  button {
+    font-size: 1.2rem;
+  }
+}
