@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e08a982f9547058e9e7367fcad2d6191",
+    "revision": "570fe6bff47bcc96599c1db898e5b9ae",
     "url": "/React-clock/index.html"
   },
   {
