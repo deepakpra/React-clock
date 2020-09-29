@@ -13,9 +13,6 @@ function App() {
       <div>
         <h1>{time}</h1>
       </div>
-      <div>
-        <button onClick={update}>Get Time</button>
-      </div>
     </div>
   );
 }
