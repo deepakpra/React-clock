@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/React-clock/static/js/main.49a11766.chunk.js",
-    "main.js.map": "/React-clock/static/js/main.49a11766.chunk.js.map",
+    "main.js": "/React-clock/static/js/main.15e779fb.chunk.js",
+    "main.js.map": "/React-clock/static/js/main.15e779fb.chunk.js.map",
     "runtime-main.js": "/React-clock/static/js/runtime-main.ec3a500a.js",
     "runtime-main.js.map": "/React-clock/static/js/runtime-main.ec3a500a.js.map",
     "static/js/2.e346f9ac.chunk.js": "/React-clock/static/js/2.e346f9ac.chunk.js",
     "static/js/2.e346f9ac.chunk.js.map": "/React-clock/static/js/2.e346f9ac.chunk.js.map",
     "index.html": "/React-clock/index.html",
-    "precache-manifest.49dec5eeb37d5d2ad76b63d7d68b8827.js": "/React-clock/precache-manifest.49dec5eeb37d5d2ad76b63d7d68b8827.js",
+    "precache-manifest.30d4c3465705f86965f7d46eefd04a46.js": "/React-clock/precache-manifest.30d4c3465705f86965f7d46eefd04a46.js",
     "service-worker.js": "/React-clock/service-worker.js",
     "static/js/2.e346f9ac.chunk.js.LICENSE.txt": "/React-clock/static/js/2.e346f9ac.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.ec3a500a.js",
     "static/js/2.e346f9ac.chunk.js",
-    "static/js/main.49a11766.chunk.js"
+    "static/js/main.15e779fb.chunk.js"
   ]
 }
